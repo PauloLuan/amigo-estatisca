@@ -1,0 +1,11 @@
+{
+  "name": "amigo-estatistica",
+  "version": "0.0.0",
+  "description": "sorteio do amigo secreto",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "pauloluan",
+  "license": "MIT"
+}
